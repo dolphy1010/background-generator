@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "A generator that changes the background of the website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolphy1010/background-generator.git"
+  },
+  "author": "ZTM Dolphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolphy1010/background-generator/issues"
+  },
+  "homepage": "https://github.com/dolphy1010/background-generator#readme"
+}
